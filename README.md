@@ -1,2 +1,1 @@
-# HTML-CSS-88_HW_1
-HTML+CSS #88_HW_1
+goit-markup-hw-01
